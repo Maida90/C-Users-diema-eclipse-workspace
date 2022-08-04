@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="36817" started-at="2022-07-14T15:56:40 PYT" finished-at="2022-07-14T15:57:17 PYT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="36817" started-at="2022-07-14T15:56:40 PYT" finished-at="2022-07-14T15:57:17 PYT">
+      <class name="Pruebas.Laboratorio04_E1">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Pruebas.Laboratorio04_E1@78d6447a]" name="setUp" is-config="true" duration-ms="3846" started-at="2022-07-14T15:56:36 PYT" finished-at="2022-07-14T15:56:40 PYT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="irUrl()[pri:0, instance:Pruebas.Laboratorio04_E1@78d6447a]" name="irUrl" is-config="true" duration-ms="11425" started-at="2022-07-14T15:56:40 PYT" finished-at="2022-07-14T15:56:51 PYT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- irUrl -->
+        <test-method status="PASS" signature="maxVentana()[pri:0, instance:Pruebas.Laboratorio04_E1@78d6447a]" name="maxVentana" is-config="true" duration-ms="11" started-at="2022-07-14T15:56:51 PYT" finished-at="2022-07-14T15:56:52 PYT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maxVentana -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:Pruebas.Laboratorio04_E1@78d6447a]" name="login" duration-ms="4716" started-at="2022-07-14T15:56:53 PYT" data-provider="Funcionalidad Login" finished-at="2022-07-14T15:56:58 PYT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[correo3@mailinator.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ABCD]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:Pruebas.Laboratorio04_E1@78d6447a]" name="login" duration-ms="3625" started-at="2022-07-14T15:56:58 PYT" data-provider="Funcionalidad Login" finished-at="2022-07-14T15:57:01 PYT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[correo4@mailinator.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ABCD]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:Pruebas.Laboratorio04_E1@78d6447a]" name="login" duration-ms="4001" started-at="2022-07-14T15:57:01 PYT" data-provider="Funcionalidad Login" finished-at="2022-07-14T15:57:05 PYT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[correo5@mailinator.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[45dsff4s]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:Pruebas.Laboratorio04_E1@78d6447a]" name="login" duration-ms="3291" started-at="2022-07-14T15:57:05 PYT" data-provider="Funcionalidad Login" finished-at="2022-07-14T15:57:09 PYT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[correo6@mailinator.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ferewrfwa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:Pruebas.Laboratorio04_E1@78d6447a]" name="login" duration-ms="3616" started-at="2022-07-14T15:57:09 PYT" data-provider="Funcionalidad Login" finished-at="2022-07-14T15:57:12 PYT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[correo7@mailinator.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[esfw3a3a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:Pruebas.Laboratorio04_E1@78d6447a]" name="login" duration-ms="3828" started-at="2022-07-14T15:57:12 PYT" data-provider="Funcionalidad Login" finished-at="2022-07-14T15:57:16 PYT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[die87@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="finPrueba()[pri:0, instance:Pruebas.Laboratorio04_E1@78d6447a]" name="finPrueba" is-config="true" duration-ms="1" started-at="2022-07-14T15:57:16 PYT" finished-at="2022-07-14T15:57:16 PYT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finPrueba -->
+        <test-method status="PASS" signature="cierreNavegador()[pri:0, instance:Pruebas.Laboratorio04_E1@78d6447a]" name="cierreNavegador" is-config="true" duration-ms="844" started-at="2022-07-14T15:57:16 PYT" finished-at="2022-07-14T15:57:17 PYT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cierreNavegador -->
+        <test-method status="PASS" signature="finSuite()[pri:0, instance:Pruebas.Laboratorio04_E1@78d6447a]" name="finSuite" is-config="true" duration-ms="1" started-at="2022-07-14T15:57:17 PYT" finished-at="2022-07-14T15:57:17 PYT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finSuite -->
+      </class> <!-- Pruebas.Laboratorio04_E1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
